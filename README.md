@@ -36,7 +36,8 @@ A Next.js application for managing employee
     ```bash
     pnpm dev
 
-Screenshots:
+**Screenshots:**
+
 ![Dashboard-Light mode](<Screenshot 2025-05-26 103953.png>)
 ![Dark mode](<Screenshot 2025-05-26 104009.png>)
 ![Bookmarks page](<Screenshot 2025-05-26 104027.png>)
