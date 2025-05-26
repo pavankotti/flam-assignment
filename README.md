@@ -35,3 +35,9 @@ A Next.js application for managing employee
 3. Start the development server:
     ```bash
     pnpm dev
+
+Screenshots:
+![Dashboard-Light mode](<Screenshot 2025-05-26 103953.png>)
+![Dark mode](<Screenshot 2025-05-26 104009.png>)
+![Bookmarks page](<Screenshot 2025-05-26 104027.png>)
+![Analytics page](<Screenshot 2025-05-26 104037.png>)   
