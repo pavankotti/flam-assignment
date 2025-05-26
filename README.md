@@ -28,9 +28,9 @@ A Next.js application for managing employee bookmarks with analytics capabilitie
 git clone https://github.com/pavankotti/flam-assignment.git
 
 2. Install dependencies:
-```bash
+
 pnpm install
 
 3. Start the development server:
-```bash
+
 pnpm dev
